@@ -4,7 +4,7 @@
 To implement Huffman coding to compress the data using Python.
 
 ## Software Required
-1. Anaconda - Python 3.7
+Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
